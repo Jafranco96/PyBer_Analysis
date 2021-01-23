@@ -18,7 +18,7 @@ The weekly summary by city type below also corroborates the findings discussed p
 
 The weekly summary by city type can also be transformed to a line chart to give a more visual, high-level representation of the data. The line chart is below:
 
-<img src = "https://github.com/Jafranco96/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png>
+<img src = "https://github.com/Jafranco96/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png">
 
 These two summaries and the visuazaltion point to a result that should come as no surprise: the bulk of Pyber’s services and gross revenue is concentrated with urban areas. To address these disparities among city types, three business recommendations for future implementation will be presented to upper management
 
