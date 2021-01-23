@@ -20,6 +20,16 @@ The weekly summary by city type can also be transformed to a line chart to give 
 
 <img src = "https://github.com/Jafranco96/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png">
 
-These two summaries and the visuazaltion point to a result that should come as no surprise: the bulk of Pyber’s services and gross revenue is concentrated with urban areas. To address these disparities among city types, three business recommendations for future implementation will be presented to upper management
+These two summaries and the visualization point to a result that should come as no surprise: the bulk of Pyber’s services and gross revenue is concentrated with urban areas. To address these disparities among city types, three business recommendations for future implementation will be presented to upper management
 
 ## Analysis Results Summary
+
+Before commencing with the business recommendations, it is imperative to note that the three weeks with the highest number of total fares (2-24, 4-7, and 4-28) all had urban rides comprised less than its total average of 63% of total fares. The urban percentage of total rides for these three weeks were 51%, 61%, 59%. This means that as Pyber actually diversifies its services to non-urban areas, its gross revenue actually increases. As such, upper management should not worry about addressing service disparities between city types to adversely impact revenue. In fact, addressing such disparities will actually increase revenue. Accordingly, the three business recommendations for upper management to consider are as follows:
+
+•	Attempt to target suburban rides to comprise a weekly percentage of 32% of all total rides. This is the average of suburban percentage out of all rides for the weeks of 2-24,4-7, and 4-28. The current suburban percentage of out all rides from January to April in 2019 is 30%. This is a 2% target increase.
+
+•	Attempt to target rural rides to comprise a weekly percentage of 16% of all total rides. This is the average of rural percentage out of all rides for the weeks of 2-24,4-7, and 4-28. The current rural percentage of out all rides from January to April in 2019 is 10%. This is a 6% target increase.
+
+•	 Attempt to target urban rides to comprise a weekly percentage of 59% of all total rides. This is the average of urban percentage out of all rides for the weeks of 2-24,4-7, and 4-28. The current urban percentage of out all rides from January to April in 2019 is 63%. This is a 4% target decrease.
+
+With these three business recommendations, Pyber would not only expand their service market to non-urban areas but also see gross revenue increase concurrently. 
